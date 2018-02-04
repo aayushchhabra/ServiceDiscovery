@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client_main.iml" group="eureka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client_test.iml" group="eureka-client" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" filepath="$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-feign-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-feign-client_main.iml" group="eureka-feign-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-feign-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-feign-client_test.iml" group="eureka-feign-client" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_main.iml" group="eureka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server_test.iml" group="eureka-server" />
+    </modules>
+  </component>
+</project>
